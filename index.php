@@ -75,7 +75,7 @@
                                         <!-- item-->
                                         <a href="javascript:void(0);" class="dropdown-item notify-item active">
                                             <div class="notify-icon bg-success"><i class="mdi mdi-cart-outline"></i></div>
-                                            <p class="notify-details"><b>Your order is placed</b><small class="text-muted">Dummy text of the printing and typesetting industry.</small></p>
+                                            <p class="notify-details"><b>Your order is placed 2024</b><small class="text-muted">Dummy text of the printing and typesetting industry.</small></p>
                                         </a>
 
                                         <!-- item-->
